@@ -1,16 +1,16 @@
 Hi 👋 My name is Idiris Omer
 ============================
 
-Front End Developer - HTML , CSS & JavaScript
+Front End Developer - React, Next.js 🔥
 ---------------------------------------------
 
-I have been learning to code for a few years now alongside my day job and family commitments. I enjoy learning to code and making websites. Looking to land my first role as a Frontend Web Dev.
+I have been learning to code for a few years now and have recently completed a Frontend Bootcamp. I enjoy learning to code and making websites. Looking to land my first role as a Frontend Web Dev.
 
 * 🌍  I'm based in Leicester,UK
 * ✉️  You can contact me at [idirisomer@googlemail.com](mailto:idirisomer@googlemail.com)
-* 🚀  I'm currently working on [my personal profile](http://faopaw.github.io/idirisomer.github.io/)
-* 🧠  I'm learning Mongoose & React
-* 🤝  I'm open to collaborating on frontend projects especially those using JavaScript
+* 🚀  I'm currently working on [a an exciting community project using using Next.js & Auth0](https://github.com/Faopaw/find-imam-taraweeh)
+* 🧠  I'm learning Next.js
+* 🤝  I'm open to collaborating on frontend projects especially those using React
 
 <a href="https://www.twitter.com/idiris_codes" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/idiris_codes?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0f172a"
