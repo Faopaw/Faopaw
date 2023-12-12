@@ -9,8 +9,8 @@ I have been learning to code for a few years now and have recently completed a F
 * 🌍  I'm based in Leicester,UK
 * ✉️  You can contact me at [idirisomer@googlemail.com](mailto:idirisomer@googlemail.com)
 * 🚀  I'm currently working on [a an exciting community project using using Next.js & Auth0](https://github.com/Faopaw/find-imam-taraweeh)
-* 🧠  I'm learning Next.js
-* 🤝  I'm open to collaborating on frontend projects especially those using React
+* 🧠  I'm learning TypeScript
+* 🤝  I'm open to collaborating on projects. Send me a DM!
 
 <a href="https://www.twitter.com/idiris_codes" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/idiris_codes?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0f172a"
