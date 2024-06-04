@@ -4,11 +4,11 @@ Hi 👋 My name is Idiris Omer
 Front End Developer - TypeScript & React
 ---------------------------------------------
 
-I have been learning to code for a few years now and have recently completed a Frontend Bootcamp. I enjoy learning to code and making websites. Looking to land my first role as a Frontend Web Dev.
+I enjoy learning to code and building projects. Looking to land a role as a Frontend Developer.
 
 * 🌍  I'm based in Leicester,UK
 * ✉️  You can contact me at [idirisomer@googlemail.com](mailto:idirisomer@googlemail.com)
-* 🚀  I'm currently working on [a an exciting community project using using Next.js & Auth0](https://github.com/Faopaw/find-imam-taraweeh)
+* 🚀  I'm currently working on buidling small to medium size projects to hone my craft.
 * 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on projects. Send me a DM!
 
